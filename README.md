@@ -6,7 +6,6 @@ Kurze Beschreibung des Projekts und was es macht.
 
 - [Installation](#installation)
 - [Verwendung](#verwendung)
-- [Lizenz](#lizenz)
 - [Kontakt](#kontakt)
 
 ## Installation
